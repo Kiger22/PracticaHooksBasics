@@ -1,0 +1,5 @@
+.rotated{
+  transform: rotate(540deg);
+  transition: all 0.8s;
+}
+
